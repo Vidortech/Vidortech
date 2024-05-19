@@ -1,8 +1,8 @@
 # Olá, eu sou Matheus Vidor! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Vidortech&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Vidortech?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Vidortech?style=social)
 
 ![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
@@ -19,23 +19,23 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Projetos Destacados
 
-- [**Nome do Projeto 1**](https://github.com/seu-usuario/nome-do-projeto-1): Uma breve descrição sobre o projeto.
-- [**Nome do Projeto 2**](https://github.com/seu-usuario/nome-do-projeto-2): Uma breve descrição sobre o projeto.
-- [**Nome do Projeto 3**](https://github.com/seu-usuario/nome-do-projeto-3): Uma breve descrição sobre o projeto.
+- [**Cifra de Vigenère**](https://github.com/Vidortech/Cifra-de-vigenere): Software para criptografia de mensagens ou dados sensíveis por substituição polialfabética.
+- [**Calculadora Moderna**](https://github.com/Vidortech/deskCode): Uma calculadora moderna que pode ser adaptada e usada em projetos de engenharia.
+- [**LibRef**](https://github.com/Vidortech/LibRef): Aplicativo de referências para trabalhos acadêmicos.
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vidortech&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidortech&layout=compact&theme=radical)
 
 ## 💬 Contato
 
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-linkedin)
-- Twitter: [@seu-usuario](https://twitter.com/seu-usuario)
-- E-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- LinkedIn: [Matheus Vidor](https://www.linkedin.com/in/vidortech/)
+- Twitter: [@Vidortech](https://twitter.com/vidortech)
+- E-mail: [matheusvidordeoliveira@proton.me](mailto:matheusvidordeoliveira@proton.me)
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Matheus Vidor](https://github.com/Vidortech)
 
 ![Footer GIF](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
