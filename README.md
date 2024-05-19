@@ -41,7 +41,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Vidortech&theme=radical&no-bg=true&no-frame=true&column=7"/>
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Vidortech&theme=radical&no-bg=true&no-frame=true&column=4"/>
 </div>
 
 
