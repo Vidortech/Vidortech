@@ -44,18 +44,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=Vidortech&theme=radical&no-bg=true&no-frame=true&column=7"/>
 </div>
 
-## 🔥 Contribuições Recentes
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vidortech&theme=rogue)
-
-## 📊 Estatísticas de Contribuições
-
-![Metrics](https://metrics.lecoq.io/Vidortech?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
 
 ## 💬 Contato
 
 - LinkedIn: [Matheus Vidor](https://www.linkedin.com/in/vidortech/)
 - Twitter: [@Vidortech](https://twitter.com/vidortech)
+- Instagram: [@vidortech](https://instagram.com/vidortech)
 - E-mail: [matheusvidordeoliveira@proton.me](mailto:matheusvidordeoliveira@proton.me)
 
 ---
