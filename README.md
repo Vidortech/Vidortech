@@ -10,8 +10,15 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=Fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-00599C?style=flat&logo=Pascal&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -25,8 +32,25 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vidortech&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidortech&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidortech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidortech&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidortech&theme=radical&hide_border=true"/>
+</div>
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Vidortech&theme=radical&no-bg=true&no-frame=true&column=7"/>
+</div>
+
+## 🔥 Contribuições Recentes
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vidortech&theme=rogue)
+
+## 📊 Estatísticas de Contribuições
+
+![Metrics](https://metrics.lecoq.io/Vidortech?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
 
 ## 💬 Contato
 
